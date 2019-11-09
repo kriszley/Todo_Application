@@ -1,0 +1,19 @@
+{
+    "kris": {
+        "awscloudformation": {
+            "AuthRoleName": "todo-app-20190428101910-authRole",
+            "UnauthRoleArn": "arn:aws:iam::438454736572:role/todo-app-20190428101910-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::438454736572:role/todo-app-20190428101910-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "todo-app-20190428101910-deployment",
+            "UnauthRoleName": "todo-app-20190428101910-unauthRole",
+            "StackName": "todo-app-20190428101910",
+            "StackId": "arn:aws:cloudformation:us-west-2:438454736572:stack/todo-app-20190428101910/bcf4a480-69d9-11e9-a219-066c9aefcac8"
+        },
+        "categories": {
+            "auth": {
+                "cognito97ba2b78": {}
+            }
+        }
+    }
+}
